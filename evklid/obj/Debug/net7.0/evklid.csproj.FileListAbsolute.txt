@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\bin\Debug\net7.0\evklid.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\bin\Debug\net7.0\evklid.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\bin\Debug\net7.0\evklid.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\bin\Debug\net7.0\evklid.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\bin\Debug\net7.0\evklid.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\refint\evklid.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\evklid.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\evklid\obj\Debug\net7.0\ref\evklid.dll
