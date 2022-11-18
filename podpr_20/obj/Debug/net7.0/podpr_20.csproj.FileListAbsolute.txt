@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\bin\Debug\net7.0\podpr_20.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\bin\Debug\net7.0\podpr_20.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\bin\Debug\net7.0\podpr_20.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\bin\Debug\net7.0\podpr_20.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\bin\Debug\net7.0\podpr_20.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\refint\podpr_20.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\podpr_20.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 18.11\introductionC18.11\podpr_20\obj\Debug\net7.0\ref\podpr_20.dll
